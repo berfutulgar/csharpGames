@@ -1,0 +1,7 @@
+C:\Users\COSMOS\source\repos\DestinyDice\DestinyDice\bin\Debug\DestinyDice.exe.config
+C:\Users\COSMOS\source\repos\DestinyDice\DestinyDice\bin\Debug\DestinyDice.exe
+C:\Users\COSMOS\source\repos\DestinyDice\DestinyDice\bin\Debug\DestinyDice.pdb
+C:\Users\COSMOS\source\repos\DestinyDice\DestinyDice\obj\Debug\DestinyDice.csproj.AssemblyReference.cache
+C:\Users\COSMOS\source\repos\DestinyDice\DestinyDice\obj\Debug\DestinyDice.csproj.CoreCompileInputs.cache
+C:\Users\COSMOS\source\repos\DestinyDice\DestinyDice\obj\Debug\DestinyDice.exe
+C:\Users\COSMOS\source\repos\DestinyDice\DestinyDice\obj\Debug\DestinyDice.pdb

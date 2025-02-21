@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COSMOS\\Desktop\\csGames\\DestinyDice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54D9FE7-1BFF-46C7-88E3-5E5F8993AD6F}|DestinyDice\\DestinyDice.csproj|c:\\users\\cosmos\\desktop\\csgames\\destinydice\\destinydice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54D9FE7-1BFF-46C7-88E3-5E5F8993AD6F}|DestinyDice\\DestinyDice.csproj|solutionrelative:destinydice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COSMOS\\Desktop\\csGames\\DestinyDice\\DestinyDice\\Program.cs",
+              "RelativeDocumentMoniker": "DestinyDice\\Program.cs",
+              "ToolTip": "C:\\Users\\COSMOS\\Desktop\\csGames\\DestinyDice\\DestinyDice\\Program.cs",
+              "RelativeToolTip": "DestinyDice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:49:16.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
