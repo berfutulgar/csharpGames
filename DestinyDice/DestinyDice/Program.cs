@@ -37,18 +37,36 @@ namespace DestinyDice
             {
                 Console.WriteLine("Big Damage");
             }
-            if (mean > 10 && mean <= 15) //iki olasılık karşılaştırmak istiyorsak ayrı ayrı yazmamız gerek
+            else if (mean > 10 && mean <= 15) //iki olasılık karşılaştırmak istiyorsak ayrı ayrı yazmamız gerek
             {
                 Console.WriteLine("Damage");
             }
-            if(mean > 5 && mean <= 10)
+            else if(mean > 5 && mean <= 10)
             {
                 Console.WriteLine("No Damage");
             }
-            if(mean <= 5)
+            else if(mean <= 5 && mean > 2)
             {
                 Console.WriteLine("Self Damage");
             }
+
+            else
+            {
+                Console.WriteLine("Extra Self Damage"); // if'te olmaayan değerleri else tutar
+            }
+
+            // iç içe geçmiş olasılıklar da ekleyebilriz
+            if(mean >= 10)
+            {
+                if(firstRoll > 12)
+                {
+                    if(secondRoll > 15)
+                    {
+                        Console.WriteLine("Rear State + 15 Damage");
+                    }
+                }
+            }
+
 
             // 4. ve 5. zar 18 üstünde gelirse ek zarar verilecek
 
